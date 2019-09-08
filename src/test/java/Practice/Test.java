@@ -5,5 +5,6 @@ public class Test {
         System.out.println("test");
         System.out.println("HELLO WORLD BY TEST");
         System.out.println("Changes by master");
+        System.out.println("another changes by test");
     }
 }
